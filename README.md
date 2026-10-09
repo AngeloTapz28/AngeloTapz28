@@ -16,8 +16,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 Student at the **University of Mindanao**
-- 🔭 Currently working on: **[add your current project here]**
-- 🌱 Currently learning: **[e.g. React, Node.js, TypeScript]**
 - 🎨 I like bridging design and code: Figma to HTML/CSS/JS
 - 💬 Ask me about: **frontend development, UI design, PHP/MySQL**
 - 📫 Reach me at: **a.taperla.531283@umindanao.edu.ph**
