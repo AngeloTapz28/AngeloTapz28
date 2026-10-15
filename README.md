@@ -34,7 +34,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [**PAWS: Pet Adoption Management System**](https://github.com/AngeloTapz28/paws) | _[One line: pet management]_ | _[LARAVEL]_ |
+| [**PAWS: Pet Adoption Management System**](https://github.com/AngeloTapz28/paws) | _[pet management]_ | _[LARAVEL]_ |
 | [**Reflection Simulation Physics102**](https://github.com/AngeloTapz28/reflection-simulation) | _[simulates reflection]_ | _[PYTHON]_ |
 | [**PAWS(C#): Pet Adoption Management System**](https://github.com/AngeloTapz28/PAWS-CRM) | _[pet management]_ | _[C#]_ |
 
