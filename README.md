@@ -34,9 +34,9 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [**TapzFiles**](https://github.com/AngeloTapz28/TapzFiles) | _[One line: what it does and who it's for]_ | _[e.g. PHP, MySQL, JS]_ |
-| [**Project name**](https://github.com/AngeloTapz28/REPO-NAME) | _[One line description]_ | _[Tech stack]_ |
-| [**Project name**](https://github.com/AngeloTapz28/REPO-NAME) | _[One line description]_ | _[Tech stack]_ |
+| [**PAWS: Pet Adoption Management System**](https://github.com/AngeloTapz28/paws) | _[One line: pet management]_ | _[LARAVEL]_ |
+| [**Reflection Simulation Physics102**](https://github.com/AngeloTapz28/reflection-simulation) | _[simulates reflection]_ | _[PYTHON]_ |
+| [**PAWS(C#): Pet Adoption Management System**](https://github.com/AngeloTapz28/PAWS-CRM) | _[pet management]_ | _[C#]_ |
 
 ---
 
